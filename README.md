@@ -1,4 +1,4 @@
-# gkd
+# gkd simulation_software 
 仿真实验平台
 
 下载完成后运行以下命令:
